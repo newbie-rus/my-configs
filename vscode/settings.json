@@ -1,0 +1,47 @@
+{
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+	"editor.fontSize": 20,
+
+	"terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+	"terminal.integrated.fontSize": 18,
+
+	"workbench.startupEditor": "none",
+	"editor.minimap.enabled": false,
+
+	"editor.cursorSurroundingLines": 10,
+	"editor.cursorBlinking": "phase",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+
+	"workbench.list.smoothScrolling": true,
+	"terminal.integrated.smoothScrolling": true,
+	"editor.smoothScrolling": true,
+
+	"files.defaultLanguage": "cpp",
+	"editor.detectIndentation": false,
+	"editor.folding": false,
+	"editor.parameterHints.enabled": false,
+	"editor.parameterHints.cycle": false,
+	"terminal.integrated.defaultProfile.linux": "zsh",
+	"editor.guides.indentation": false,
+	"explorer.confirmDelete": false,
+	"editor.linkedEditing": true,
+
+	"window.titleBarStyle": "custom",
+
+	"terminal.integrated.scrollback": 2000,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Gruvbox Dark (Medium)",
+    "files.autoSave": "afterDelay",
+    "vsicons.dontShowNewVersionMessage": true,
+    "breadcrumbs.enabled": false,
+    "extensions.ignoreRecommendations": true,
+    "cSpell.language": "en, ru",
+    "cSpell.userWords": [
+        "колво",
+        "DASM"
+    ],
+    "terminal.external.linuxExec": "alacritty"
+  }
